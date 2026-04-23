@@ -10,13 +10,13 @@ Not a personality test. Not self-knowledge. A diagnostic engine.
 
 ## What it does
 
-22 behavioral questions. One verdict. One recommended exit.
+22 behavioral questions. One structural pattern. Depending on tier — zero, one, or three exits.
 
-The engine scores your answers across three axes — Drive, Reality, Capacity — and outputs one of 12 decision patterns. Each pattern comes with:
+The engine scores your answers across three axes — Drive, Reality, Capacity — and outputs one of 12 decision patterns. Each pattern reveals:
 
 - What is breaking
 - What it is costing you
-- One structural exit
+- The next structural move (if your tier includes exits)
 
 ---
 
@@ -33,7 +33,7 @@ If you keep starting things that don't close, waiting for confirmation that neve
 | Tier | What you get | Price |
 |------|-------------|-------|
 | **Signal** | Pattern identified. No exit. | [$10 →](https://buy.stripe.com/fZu28s4S9gDi7DUfaugA80b) |
-| **Report** | Full diagnosis + 1 recommended move | [$49 →](https://buy.stripe.com/eVq00k5Wd2Ms1fwe6qgA808) |
+| **Report** | Full diagnosis + 1 structural exit | [$49 →](https://buy.stripe.com/eVq00k5Wd2Ms1fwe6qgA808) |
 | **D.O.S.** | 7-layer audit + 3 exits + decision OS | [$149 →](https://buy.stripe.com/eVqcN65Wdeva2jA6DYgA809) |
 
 22 questions · one verdict · no account needed
