@@ -36,7 +36,7 @@ If you keep starting things that don't close, waiting for confirmation that neve
 | **Report** | Full diagnosis + 1 structural exit | [$49 →](https://buy.stripe.com/eVq00k5Wd2Ms1fwe6qgA808) |
 | **D.O.S.** | 7-layer audit + 3 exits + decision OS | [$149 →](https://buy.stripe.com/eVqcN65Wdeva2jA6DYgA809) |
 
-22 questions · one verdict · no account needed
+22 questions · one pattern · no account needed
 
 ---
 
