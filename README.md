@@ -9,13 +9,13 @@ Not a personality test. Not self-knowledge. A diagnostic engine.
 
 ## What it does
 
-22 behavioral questions. One structural pattern. Depending on tier — one or three exits.
+22 behavioral questions. One structural pattern. Depending on tier — no exit, one exit, or three exits.
 
 The engine scores your answers across three axes — Drive, Reality, Capacity — and outputs one of 12 decision patterns. Each pattern reveals:
 
 - What is breaking
 - What it is costing you
-- The next structural move
+- The next structural move (paid tiers only)
 
 ---
 
@@ -40,8 +40,9 @@ It tells you where the system is breaking.
 
 | Tier | What you get | Price |
 |------|-------------|-------|
-| **Report** | Full diagnosis + 1 structural exit | [$49 →](https://buy.stripe.com/eVq00k5Wd2Ms1fwe6qgA808) |
-| **D.O.S.** | 7-layer audit + 3 exits + decision OS | [$99 →](https://buy.stripe.com/28E00k2K186M2jAgeygA80c) |
+| **Report** | Full diagnosis. No exit. | [$19 →](https://buy.stripe.com/14A4gA4S9biYaQ61jEgA80d) |
+| **D.O.S.** | Full diagnosis + 7-layer audit + 3 exits | [$49 →](https://buy.stripe.com/eVq00k5Wd2Ms1fwe6qgA808) |
+| **Free** | See your position | [→](https://mirami.tech/demo.html) |
 
 22 questions · one pattern · no account needed
 
