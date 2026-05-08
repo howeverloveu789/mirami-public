@@ -1,62 +1,100 @@
 # MIRAMI
+
 > Upgrade how you decide.
 
-MIRAMI is a behavioral decision scanner. It identifies exactly where your decision system is breaking — and gives you one move to fix it.
+Stop looping. Start moving.
 
-No thinking required. No coaching. No personality test.
-A diagnostic engine that tells you what's blocking your next move.
+MIRAMI is a decision system for people and organizations that cannot afford open loops.
+
+It identifies whether the real problem is:
+information, timing, pressure, execution — or the way decisions are being made.
+
+AI-powered decision analysis.
 
 ---
 
-## What it does
+## What MIRAMI detects
 
-22 behavioral questions. 15 minutes. One verdict.
+Most pressure is not emotional.
 
-The engine maps your decision pattern, identifies the structural fault, and prescribes the exit. The output reflects your specific answers — not a template.
+It comes from:
 
-The black box is intentional. The scoring logic is not exposed.
+* unclear information
+* delayed execution
+* overloaded capacity
+* decisions that never fully close
+
+MIRAMI finds where the operational break is happening.
 
 ---
 
 ## Who it's for
 
-Founders, operators, and builders who cannot afford open loops.
+### Individuals
 
-If you keep starting things that don't close, waiting for confirmation that never arrives, or running past your own capacity — this tells you exactly why. And what to do next.
+Founders, operators, builders, and high-performers under pressure.
+
+### Teams & Organizations
+
+Execution slowdowns.
+Decision bottlenecks.
+Leadership misalignment.
+Too many active priorities with nothing closing.
 
 ---
 
-## What it is not
+## V1 — Report · $27
 
-Not coaching. Not therapy. Not motivation.
+Find the break.
 
-MIRAMI does not tell you who you are.
-It tells you where the system is breaking — and gives you one move out.
+* pressure mapping
+* structural pattern detection
+* decision analysis
+* execution bottlenecks
+
+No coaching.
+No generic advice.
+Just a clear diagnosis of what is happening.
+
+---
+
+## V2 — D.O.S. · $297
+
+Decision Operating System.
+
+Everything in V1, plus:
+
+* structural exit
+* execution direction
+* one locked move
+
+V1 identifies the problem.
+V2 closes the loop.
+
+---
+
+## What makes it different
+
+Most systems describe personality.
+
+MIRAMI analyzes active decision behavior.
+
+Not who you are.
+What is currently breaking.
+
+Deterministic logic.
+Behavior-specific outputs.
+No templates.
 
 ---
 
 ## Run a scan
 
-| Tier | What you get | Price |
-|------|-------------|-------|
-| **Report** | Find the block. Full diagnosis. | [$27 →](https://buy.stripe.com/fZu4gAbgx3QwaQ6e6qgA80f) |
-| **D.O.S.** | Full audit + 7-layer analysis + your exit | [$297 →](https://buy.stripe.com/aFa14o1FXbiY8HY3rMgA80g) |
-| **Free** | See what's already running | [→](https://mirami.tech/demo.html) |
+| Tier   | What you get               | Price |
+| ------ | -------------------------- | ----- |
+| Report | Find the block             | [$27 →](https://buy.stripe.com/fZu4gAbgx3QwaQ6e6qgA80f) |
+| D.O.S. | Full audit + one move      | [$297 →](https://buy.stripe.com/aFa14o1FXbiY8HY3rMgA80g) |
+| Free   | See what's already running | [→](https://mirami.tech/demo.html) |
 
 10x faster than traditional behavioral assessment.
 15 minutes · One verdict · One move.
-
----
-
-## How it works
-
-Deterministic scoring model. No AI guesswork. No template output.
-
-Your answers map to a structural position. The engine names the fault. The report gives you the exit.
-
-Simple. Fast. Actionable.
-
----
-
-© 2026 MIRAMI Technologies. All rights reserved.
-Built by [MIRAMI](https://mirami.tech)
