@@ -1,17 +1,20 @@
 # MIRAMI
-> First to clarity wins.
+> Upgrade how you decide.
 
-MIRAMI is a behavioral decision scanner. It identifies what is structurally wrong with how you make choices — and prescribes a move.
+MIRAMI is a behavioral decision scanner. It identifies exactly where your decision system is breaking — and gives you one move to fix it.
 
-Not a personality test. Not self-knowledge. A diagnostic engine.
+No thinking required. No coaching. No personality test.
+A diagnostic engine that tells you what's blocking your next move.
 
 ---
 
 ## What it does
 
-22 behavioral questions. One structural scan. The engine maps your decision pattern across three behavioral axes, identifies which axis is failing, and names the structural fault.
+22 behavioral questions. 15 minutes. One verdict.
 
-The scoring logic is deterministic. The black box is intentional.
+The engine maps your decision pattern, identifies the structural fault, and prescribes the exit. The output reflects your specific answers — not a template.
+
+The black box is intentional. The scoring logic is not exposed.
 
 ---
 
@@ -19,7 +22,7 @@ The scoring logic is deterministic. The black box is intentional.
 
 Founders, operators, and builders who cannot afford open loops.
 
-If you keep starting things that don't close, waiting for confirmation that never arrives, or running past your own capacity — this will tell you exactly why.
+If you keep starting things that don't close, waiting for confirmation that never arrives, or running past your own capacity — this tells you exactly why. And what to do next.
 
 ---
 
@@ -28,7 +31,7 @@ If you keep starting things that don't close, waiting for confirmation that neve
 Not coaching. Not therapy. Not motivation.
 
 MIRAMI does not tell you who you are.
-It tells you where the system is breaking.
+It tells you where the system is breaking — and gives you one move out.
 
 ---
 
@@ -36,8 +39,8 @@ It tells you where the system is breaking.
 
 | Tier | What you get | Price |
 |------|-------------|-------|
-| **Report** | Full diagnosis. Alignment check. | [$27 →](https://buy.stripe.com/fZu4gAbgx3QwaQ6e6qgA80f) |
-| **D.O.S.** | Full diagnosis + 7-layer audit + exit route | [$297 →](https://buy.stripe.com/aFa14o1FXbiY8HY3rMgA80g) |
+| **Report** | Find the block. Full diagnosis. | [$27 →](https://buy.stripe.com/fZu4gAbgx3QwaQ6e6qgA80f) |
+| **D.O.S.** | Full audit + 7-layer analysis + your exit | [$297 →](https://buy.stripe.com/aFa14o1FXbiY8HY3rMgA80g) |
 | **Free** | See what's already running | [→](https://mirami.tech/demo.html) |
 
 10x faster than traditional behavioral assessment.
@@ -47,9 +50,11 @@ It tells you where the system is breaking.
 
 ## How it works
 
-The engine runs on a deterministic scoring model. Diagnostic language is generated per scan — the output reflects your specific answers, not a template.
+Deterministic scoring model. No AI guesswork. No template output.
 
-The axis weights, scoring logic, and pattern mapping are not exposed.
+Your answers map to a structural position. The engine names the fault. The report gives you the exit.
+
+Simple. Fast. Actionable.
 
 ---
 
