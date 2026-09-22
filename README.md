@@ -1,62 +1,28 @@
 # MIRAMI
-> Upgrade how you decide.
 
-Stop looping. Start moving.
+> You know what to do. Why do you keep doing something else?
 
-MIRAMI builds ORBIT — a behavioral decision system for founders, operators, and teams who cannot afford open loops.
+MIRAMI builds **ORBIT** — a private read of the reaction you use under pressure, and where it begins to cost you.
 
-Not who you are. What is currently breaking.
+For anyone deciding whether to take the next step.
 
----
+## What you receive
 
-## What ORBIT detects
+1. **Your reaction** — the one that takes over when the next move starts to matter
+2. **What happens next** — how that reaction plays out
+3. **The cost** — what it's taking from you in time, effort, or opportunity
+4. **One pause** — a single point to stop before it repeats
 
-Most pressure is not emotional.
+## What it is not
 
-It comes from:
+- Not a personality test
+- Not generic AI advice
+- No streaks. No daily pressure.
 
-- decisions that never fully close
-- overloaded capacity
-- execution that stalls before output lands
-- direction that keeps opening before the last one finishes
+## Start
 
-ORBIT finds where the operational break is happening.
+22 questions · $10 · Private by default
 
----
-
-## Who it's for
-
-### Individuals
-Founders, operators, builders, and high-performers under pressure.
-
-### Teams & Organizations
-Execution slowdowns. Decision bottlenecks. Leadership misalignment. Too many active priorities with nothing closing.
-
----
-
-## What makes it different
-
-Most systems describe personality.  
-ORBIT analyzes active decision behavior.
-
-Not who you are.  
-What is currently breaking.
-
-Deterministic logic. Behavior-specific outputs. No templates.
-
----
-
-## Run a scan
-
-| Tier | What you get | Price |
-| --- | --- | --- |
-| ORBIT SCAN | Find the block. Full behavioral diagnosis. | [$27 →](https://buy.stripe.com/fZu4gAbgx3QwaQ6e6qgA80f) |
-| ORBIT FOCUS | Find the block + get your exact way out. | [$97 →](https://buy.stripe.com/7sYbJ23O5biYaQ6aUegA80j) |
-| Free | See what's already running. | [→](https://mirami.tech/demo.html) |
-
-15 minutes · One verdict · One move.  
-10x faster than traditional behavioral assessment.
-
----
+**[Start your ORBIT Read →](https://www.mirami.tech/)**
 
 © 2026 MIRAMI Technologies
